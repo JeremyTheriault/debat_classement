@@ -15,6 +15,8 @@
 
 ## Synoptique
 
+bouton: https://app.diagrams.net/#G1__Fr1VvlTyTD1Ivz1e5zHdvoyaP2H1ob#%7B%22pageId%22%3A%22hJNjC-ZOR3jBmeUwU8G6%22%7D
+
 ## Plans
 
 <!--
