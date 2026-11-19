@@ -10,8 +10,11 @@
 | Électronique | Arduino | 4 | gratuit | gratuit | gratuit | |
 | Éclairage | Gros fils de LED | 4 | gratuit | gratuit | gratuit | |
 | Électricité | Rallonges | 5 | gratuit | gratuit | gratuit | |
+| total |  |  |  |  | 245,68$ | |
 
 ## Logiciels
+
+vs code, unity, pure data ou max(bouton)
 
 ## Synoptique
 
