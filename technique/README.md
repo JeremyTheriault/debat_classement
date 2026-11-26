@@ -15,7 +15,9 @@
 
 ## Logiciels
 
-vs code, unity, pure data ou max(bouton)
+- vs code
+- unity
+- pure data ou max
 
 ## Synoptique
 
