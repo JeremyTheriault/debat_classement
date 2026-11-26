@@ -1,14 +1,12 @@
 # Esthétique
+<br>
 
+## Esthétique du projet et palette de couleurs
+<img src="/esthetique/img/debat-des-classements_01.png" alt="Esthétique du projet" width="600">
+<br>
+<img src="/esthetique/img/debat-des-classements_palette.png" alt="Palette de couleurs" width="600">
 
-...
-
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ABWCq8j8qys?si=prydXi1QfvX2tqLw"
-  title="YouTube video"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
-
-
-[Son demonstrative.mp3](demonstrative.mp3)
+## Interface utilisateur
+<img src="/esthetique/img/debat-des-classements_02.png" alt="Interface lors du classement" width="600">
+<br>
+<img src="/esthetique/img/debat-des-classements_03.png" alt="Interface titre du classement" width="600">
