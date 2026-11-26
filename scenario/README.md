@@ -35,7 +35,7 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- |
-|   Bouton de lancement   |     |     |     |
+|   Bouton de lancement   |   Change de scène  |  Bruit de lancement   |  Lance la partie   |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
@@ -60,7 +60,7 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- |
-|     |     |     |     |
+|   Bouton de classe   |   Le bouton appuyé est le seul qui reste allumé  |   Bruit de choix de classe    |      |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
@@ -83,7 +83,7 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- |
-|     |     |     |     |
+|   a  |     |     |     |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
