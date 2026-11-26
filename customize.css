@@ -65,3 +65,22 @@ iframe[src] * {
 }
 
 /*# sourceMappingURL=core-dark.css.map */
+.rouge {
+  color: #f87171;
+}
+
+.orange {
+  color: #fb923c;
+}
+
+.jaune {
+  color: #fde047;
+}
+
+.vert {
+  color: #4ade80;
+}
+
+.bleu {
+  color: #60a5fa;
+}

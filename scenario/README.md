@@ -21,15 +21,64 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 -->
 
 
-## Scène #ID : Nom de scène
+## Scène 1 : Lancement
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
 
 **Ce que l’interacteur voit :**
-- ...
+- L'interacteur sera accueilli par quatre stèles colorées avec 5 boutons sur chacune des stèles. (Bouton sur le dessus ayant des couleurs différentes <span class="rouge">S</span>,<span class="orange">A</span>,<span class="jaune">B</span>,<span class="vert">C</span>,<span class="bleu">D</span>).
+- Un projecteur éclair le mur blanc devant lui et affiche le menu du jeu.
 
 **Ce que l’interacteur entend :**
-- ...
+- Une musique entraînante
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|   Bouton de lancement   |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+
+## Scène 2 : Gameplay
+
+
+
+**Ce que l’interacteur voit :**
+- un tableau avec 5 lignes (<span class="rouge">S</span>,<span class="orange">A</span>,<span class="jaune">B</span>,<span class="vert">C</span>,<span class="bleu">D</span>)
+- Une image a catégoriser
+- Un timer pour déterminer le temps restant sur la manche de vote
+
+
+**Ce que l’interacteur entend :**
+- Une musique entraînante
+- Le son des choix des classes lorsqu'il se confirme. (Lorsque le choix est double cliqué)
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|     |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+
+## Scène 3 : Final
+
+
+
+**Ce que l’interacteur voit :**
+- Ils voient la tierlist avec toutes les images qu'ils ont classé 
+- Un bouton pour lancer une nouvelle partie
+
+**Ce que l’interacteur entend :**
+- Une musique entraînante
+- Un effet sonore lorsque le joueur principal lance une partie
 
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
